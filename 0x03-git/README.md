@@ -1,1 +1,3 @@
 Beginning
+Middle 
+The End
