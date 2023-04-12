@@ -1,3 +1,3 @@
-Beginning
-Middle 
+Beginning,
+Middle, 
 The End
